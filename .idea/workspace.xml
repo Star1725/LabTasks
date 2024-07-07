@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9b07c52-a3e4-4ec3-83fa-8c499831796a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabTasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/src/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/src/file1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/src/file2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/src/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/src/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/src/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/src/tests.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/src/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/src/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/src/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/task4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2iozpYq7ZaQi2OgdrPaj4YB8YYS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/User/lombok-1.18.24.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\LabTasks\task2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task1">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1" />
+      <module name="task1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2" />
+      <module name="task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3" />
+      <module name="task3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4" />
+      <module name="task4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b07c52-a3e4-4ec3-83fa-8c499831796a" name="Changes" comment="" />
+      <created>1720171902606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720171902606</updated>
+      <workItem from="1720171903685" duration="32601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
